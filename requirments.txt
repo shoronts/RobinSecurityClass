@@ -1,0 +1,2 @@
+python==3.9
+secure-smtplib==0.1.1
